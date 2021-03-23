@@ -1,5 +1,5 @@
 # bianpeter.github.io
 Github Pages
 
-Environment organization project page:
+Environmental organization project page:
 https://bianpeter.github.io/project/
